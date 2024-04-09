@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Senior Full Stack Web Developer** <br>
+🎓 I am a **Senior Full Stack | Blockchain Developer** <br>
 I have a bachelor's degree in **Computer Science and Technology**.<br>
 With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. <br>
 Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.<br>
