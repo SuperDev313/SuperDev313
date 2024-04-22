@@ -4,8 +4,9 @@
 
 🎓 I am a **Senior Full Stack | Blockchain Developer** <br>
 I have a bachelor's degree in **Computer Science and Technology**.<br>
-With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. <br>
+With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. 
 Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.<br>
+
 I specialize in Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi,  Smart Contract, Rust, and more. What I have done so far in web3 product engineering like DeFi project architecture design and implementation like DEX, trading, bonding, and also NFT marketplaces, NFT games and wallet development related NFT games. <br>
 My major strength in the web3 space includes smart contract development using solidity language for EVM-compatible chains like Ethereum, BSC, etc., and also for other ecosystems like Solana, Terra, Near, EOS, etc. <br>
 
