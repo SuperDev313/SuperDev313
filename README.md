@@ -8,7 +8,7 @@ With a proven track record of creative problem-solving, unseen productivity, and
 Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.<br>
 
 I specialize in Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi,  Smart Contract, Rust, and more. What I have done so far in web3 product engineering like DeFi project architecture design and implementation like DEX, trading, bonding, and also NFT marketplaces, NFT games and wallet development related NFT games. <br>
-My major strength in the web3 space includes smart contract development using solidity language for EVM-compatible chains like Ethereum, BSC, etc., and also for other ecosystems like Solana, Terra, Near, EOS, etc. <br>
+My strength is a smart contract development, leveraging Solidity for EVM-compatible chains like Ethereum and BSC, as well as for emerging ecosystems like Solana, Terra, Near, EOS, among others. Additionally, I've built NFT Marketplaces using React and Express.js, ensuring seamless user experiences. <br>
 
 👍 Client satisfaction is my top priority, and I consider a project successful only when my clients are fully content with the outcome. <br>
 I place great emphasis on clear and consistent communication, ensuring that my clients and I are always on the same page. <br>
