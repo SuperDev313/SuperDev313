@@ -226,6 +226,6 @@ Let's embark on this journey to build remarkable solutions for a brighter future
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hussaink001haled@gmail.com)
 [![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yjfihjnWnqEZ)
-[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/kindman021)
+[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/kindman012)
 
 </p>
