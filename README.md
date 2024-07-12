@@ -2,19 +2,8 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Senior Full Stack | Blockchain Developer** <br>
-I have a bachelor's degree in **Computer Science and Technology**.<br>
-With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. 
-Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.<br>
-
-I specialize in Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi,  Smart Contract, Rust, and more. What I have done so far in web3 product engineering like DeFi project architecture design and implementation like DEX, trading platforms, bonding mechanisms, as well as creating dynamic NFT marketplaces and engaging NFT games. I have taken part in the wallet development related NFT games. <br>
-My strength is a smart contract development, leveraging Solidity for EVM-compatible chains like Ethereum and BSC, as well as for emerging ecosystems like Solana, Terra, Near, EOS, among others. Additionally, I've built NFT Marketplaces using React and Express.js, ensuring seamless user experiences. <br>
-
-👍 Client satisfaction is my top priority, and I consider a project successful only when my clients are fully content with the outcome. <br>
-I place great emphasis on clear and consistent communication, ensuring that my clients and I are always on the same page. <br>
-I believe in providing quality services to quality clients, recognizing the value of fair compensation for excellent work.<br>
-
-Let's embark on this journey to build remarkable solutions for a brighter future!
+🎓 I am a **Senior Full Stack | Blockchain Developer** with over 7 years of experience. <br>
+Please feel free to contact me if you want to work with me. <br> Thank you
 <br>
 
 ## 🛠️ Skills
@@ -168,64 +157,8 @@ Let's embark on this journey to build remarkable solutions for a brighter future
    </tr>
 </table>
 
-### Version Control
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gitlub" width="45" height="45" alt="GitLab" />
-      <br>GitLab
-    </td>
-   </tr>
-</table>
-
-### Hosting/SaaS/BaaS
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="FireBase" />
-      <br>FireBase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku" />
-      <br>Heroku
-    </td>
-   </tr>
-</table>
-
-<p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" width="30%" height="30%"/></p>
-
-## 📈 Stats
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dreamboat999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="dreamboat999" width="48%"/> -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dreamboat999&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true" alt="profile trophies" />
-<img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=dreamboat999&theme=algolia" alt="dreamboat999" />
-<img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboat999&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
-</p>
-
 ## 🔗 Links
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hussaink001haled@gmail.com)
-[![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yjfihjnWnqEZ)
-[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/kindman012)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pa.mendoza319@gmail.com)
 
 </p>
