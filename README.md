@@ -1,4 +1,4 @@
-# Welcome! I hope you are doing well.
+# Welcome!
 
 🎓 I am a **Senior Full Stack | Blockchain Developer** with over 7 years of experience. <br>
 
